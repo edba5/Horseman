@@ -1,6 +1,6 @@
 ![](https://nyc3.digitaloceanspaces.com/cerulean/screenshots/2022/06/Screen%20Shot%202022-06-25%20at%2018.59.43.png)
 
-# 🐴 Horseman, the headless CMS
+# 🐴 Horseman, the headless CMS EB
 
 Horseman is a headless CMS thats powered by Cloudflare KV and the Cache API. Using DurableObjects to ensure data indexes are valid and up to date.
 
